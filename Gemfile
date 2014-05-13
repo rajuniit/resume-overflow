@@ -74,3 +74,5 @@ gem 'mongoid_auto_increment'
 gem 'grape'
 
 gem 'doorkeeper'
+
+gem 'protected_attributes'
