@@ -71,6 +71,5 @@ gem 'resque-scheduler'
 
 gem 'mongoid_auto_increment'
 
-gem 'grape'
 
 gem 'doorkeeper'
