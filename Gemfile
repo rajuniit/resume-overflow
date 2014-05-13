@@ -73,3 +73,5 @@ gem 'mongoid_auto_increment'
 
 
 gem 'doorkeeper'
+
+gem 'protected_attributes'
