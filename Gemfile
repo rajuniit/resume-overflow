@@ -64,7 +64,7 @@ gem 'memcache-client'
 gem 'memcached'
 gem 'dalli'
 
-gem 'feedzirra'
+gem 'feedjira'
 
 gem 'resque', :require => 'resque/server'
 gem 'resque-scheduler'
@@ -74,4 +74,4 @@ gem 'mongoid_auto_increment'
 
 gem 'doorkeeper'
 
-gem 'protected_attributes'
+#gem 'protected_attributes'
